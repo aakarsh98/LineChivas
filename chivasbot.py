@@ -26,7 +26,8 @@ sys.setdefaultencoding('utf-8')
 
 helpMessage =""" Chivas Bot
 [Id︎]
-[Mid]
+[
+]
 [Me︎]
 [TL︎:「Text」]
 [Mc 「mid」]
